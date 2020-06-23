@@ -1,7 +1,6 @@
 #!groovy
 
 node {
-
-
-    sh script: "uname -r"
+    sh "pwd"
+    sh "cat README.me"
 }
