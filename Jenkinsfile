@@ -1,5 +1,7 @@
 #!groovy
 
-node label: "test",  body: {
+node {
+
+
     sh script: "uname -r"
 }
