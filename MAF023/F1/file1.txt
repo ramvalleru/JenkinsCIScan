@@ -1,1 +1,2 @@
 test duplicate feature detection
+test duplicate 2
